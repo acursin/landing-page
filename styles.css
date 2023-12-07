@@ -166,14 +166,14 @@ button {
     text-align: end;
 }
 
-.ad-container {
+.banner-container {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-grow: 1;
 }
 
-.ad {
+.banner {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -187,12 +187,12 @@ button {
     color: #e5e7eb;
 }
 
-.ad-header {
+.banner-header {
     font-size: 24px;
     color: #f9faf8;
 }
 
-.ad-button {
+.banner-button {
     border-color: #f9faf8;
 }
 
